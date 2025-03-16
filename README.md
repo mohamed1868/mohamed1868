@@ -18,6 +18,21 @@
 
 ### 🛠️ Technologies & Tools:
 
+#### 👨‍💻 Programming Languages & Frameworks:
+- **React.js & Next.js** - Building fast and scalable SPAs & SSR applications.
+- **TypeScript & JavaScript** - Writing clean, maintainable, and scalable frontend code.
+- **Redux & Zustand** - Efficient state management for large applications.
+- **SASS & Tailwind CSS** - Creating beautiful and maintainable styles.
+
+#### 🔧 Development Tools:
+- **Git & GitHub** - Version control and open-source contributions.
+- **Postman** - API testing and debugging.
+- **Docker** - Containerizing applications for consistency across environments.
+
+#### 🎨 Design & UI/UX:
+- **Figma & Adobe XD** - Wireframing and designing user-friendly interfaces.
+- **Responsive Web Design** - Ensuring seamless experience across all devices.
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
@@ -46,7 +61,6 @@
   <a href="https://www.linkedin.com/in/mohamed-sayed-b38936338" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://github.com/mohamed1868" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" alt="GitHub" height="30" width="40" /></a>
 </p>
-
 
 ---
 

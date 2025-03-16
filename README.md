@@ -19,9 +19,9 @@
 ### 🛠️ Technologies & Tools:
 
 #### 👨‍💻 Programming Languages & Frameworks:
-- **React.js & Next.js** - Building fast and scalable SPAs & SSR applications.
+- **React.js&Ts** - Building fast and scalable SPAs & SSR applications.
 - **TypeScript & JavaScript** - Writing clean, maintainable, and scalable frontend code.
-- **Redux & Zustand** - Efficient state management for large applications.
+- **Redux** - Efficient state management for large applications.
 - **SASS & Tailwind CSS** - Creating beautiful and maintainable styles.
 
 #### 🔧 Development Tools:

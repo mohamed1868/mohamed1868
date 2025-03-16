@@ -51,8 +51,9 @@
 
 ### 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=react" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed1868&theme=react" alt="GitHub Streak Stats" />
 </p>
+
 
 ---
 

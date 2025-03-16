@@ -43,9 +43,10 @@
 
 ### 📲 Connect with Me:
 <p align="left">
-  <a href="https://linkedin.com/in/your-profile" target="blank"><img align="center" src="https://www.linkedin.com/in/mohamed-sayed-b38936338?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/mohamed-sayed-b38936338" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://github.com/mohamed1868" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" alt="GitHub" height="30" width="40" /></a>
 </p>
+
 
 ---
 

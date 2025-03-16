@@ -12,7 +12,7 @@
 - 🏆 Experienced in building **scalable and responsive web applications**.
 - 🚀 Passionate about **performance optimization, clean architecture, and modern frontend tools**.
 - 📫 Reach me at **mohamedsayed20500@gmail.com**.
-- 📄 Check out my resume: [Resume Link](https://drive.google.com/file/d/1a9j8Dh03kazcfjG4iyyjmPR1aYvy_ftA/view?usp=drive_link).
+- 📄 Check out my resume: [CV](https://drive.google.com/file/d/1a9j8Dh03kazcfjG4iyyjmPR1aYvy_ftA/view?usp=drive_link).
 
 ---
 
